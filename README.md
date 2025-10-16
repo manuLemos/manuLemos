@@ -1,8 +1,6 @@
-# Olá! Sou Manu 👋
+# Hi! I'm Manu 👋
 
-<p align="left"> 🇧🇷 Estudante de Sistemas de Informação no IFES, apaixonado por tecnologia e desenvolvimento de software. Estou em busca de uma oportunidade de <b>estágio</b> onde eu possa crescer profissionalmente, fortalecer minhas habilidades técnicas e participar de projetos reais de desenvolvimento. Estou aberto a aprender em diferentes áreas e animada para contribuir, colaborar e evoluir a cada dia 🚀.</p>&nbsp;
-
-<p align="left"> 🇺🇸 Information Systems student at IFES, passionate about technology and software development. I'm currently looking for an internship opportunity where I can grow professionally, strengthen my technical skills, and be part of real development projects. I'm open to learning in different areas and excited to contribute, collaborate, and keep improving every day 🚀.</p>&nbsp;
+<p align="left"> 🇺🇸 Information Systems student at IFES, passionate about technology and software development. I'm currently in an internship where I can grow professionally, strengthen my technical skills, and have the opportunity to be part of real development projects. Going to keep improving every day 🚀.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=manuLemos&theme=radical&mode=weekly" />
